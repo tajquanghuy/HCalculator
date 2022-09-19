@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HCalculator</string>
+    <string name="product_id">premium</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="restore">Restore</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="title_activity_buy_coins">BuyCoinsActivity</string>
+</resources>
